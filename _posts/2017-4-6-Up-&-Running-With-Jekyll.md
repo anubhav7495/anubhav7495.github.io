@@ -7,4 +7,4 @@ Finally got my blog setup using Github pages and Jekyll-now. Took a little longe
 
 ![mr.robot hackerman]({{ site.baseurl }}/images/hackerman.png)
 
-*Do check out* **Mr.Robot** *on* **Netflix**, *It is* **Awesome**. 
+*Do check out* **Mr.Robot** *on* **Netflix**, *It is* **Awesome**.
